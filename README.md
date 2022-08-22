@@ -1,5 +1,5 @@
 # CS_210_Project_One
-#### By: Luna Deighan
+##### By: Luna Deighan
 
 ### Summarize the project and what problem it was solving.
 
